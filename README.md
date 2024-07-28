@@ -2,4 +2,4 @@
 <br>
 This is my first repository.
 <br>
-My name is Muhammad Sajjad
+author: My name is Muhammad Sajjad
